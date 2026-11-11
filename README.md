@@ -20,4 +20,4 @@ Geliştirme sürecinde **Gemini / ChatGPT** asistan olarak aktif şekilde kullan
 4. **Dokümantasyon:** Proje dokümantasyonu ve README içeriği yapay zeka katkısıyla hazırlandı.
    
 ## Domain
-react-vite-web-development.vercel.app 
+[react-vite-web-development.vercel.app ](https://vercel.com/mehmet-erdem-ergin/react-vite-web-development)
