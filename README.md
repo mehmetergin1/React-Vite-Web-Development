@@ -18,3 +18,6 @@ Geliştirme sürecinde **Gemini / ChatGPT** asistan olarak aktif şekilde kullan
 2. **Bileşen Üretimi:** `SummaryCards` ve `ExpenseForm` bileşenlerinin JSX ve Tailwind stil kodlarının ilk taslağı yapay zekaya ürettirildi.
 3. **Hata Ayıklama (Debugging):** LocalStorage senkronizasyonu ve state güncellemelerinde yaşanan render hataları yapay zekadan alınan tavsiyelerle çözüldü.
 4. **Dokümantasyon:** Proje dokümantasyonu ve README içeriği yapay zeka katkısıyla hazırlandı.
+   
+## Domain
+react-vite-web-development.vercel.app 
